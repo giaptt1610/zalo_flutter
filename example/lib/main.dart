@@ -31,9 +31,9 @@ class _MyHomePageState extends State<MyHomePage> {
   int _indexReset = -1;
   ValueKey<String> _key = const ValueKey<String>('');
 
-  String zaloId = '2961857761415564889';
-  String zaloMessage = 'Hello';
-  String zaloLink = 'www.google.com';
+  // String zaloId = '2961857761415564889';
+  // String zaloMessage = 'Hello';
+  // String zaloLink = 'www.google.com';
 
   String? _accessToken;
   String? _refreshToken;
